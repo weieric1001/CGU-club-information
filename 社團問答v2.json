@@ -1,0 +1,686 @@
+[
+    {
+        "question": "一定要參加社團嗎？",
+        "answer": "不一定，可以依照自興趣愛好選擇。若時間充裕，是可以參加的！"
+    },
+    {
+        "question": "只能選一個社團嗎？",
+        "answer": "你想要參加幾個社團就幾個！"
+    },
+    {
+        "question": "社團要繳社費嗎？",
+        "answer": "社費看每個社團的需要，多是用來辦理活動及材料、設備的支出。"
+    },
+    {
+        "question": "沒有樂器是不是就不能參加音樂性的社團呢？",
+        "answer": "沒有樂器也可以參加的。"
+    },
+    {
+        "question": "系學會、校友會是什麼？",
+        "answer": "系學會是辦理系上各項活動(迎新、期初系大等各活動…)，校友會則是各地區校友的聯合總會，讓大家聯絡感情的地方。"
+    },
+    {
+        "question": "系學會有哪些？",
+        "answer": "有醫學系系學會、中醫系系學會、護理系系學會、生技系系學會等。"
+    },
+    {
+        "question": "我需要確切知道有哪些系學會",
+        "answer": "醫學系系學會、中醫系系學會、護理系系學會、生技系系學會、醫放系系學會、物治系系學會、職治系系學會、呼治系系學會、生醫系系學會、醫技系系學會、電機系系學會、機械系系學會、化材系系學會、電子系系學會、資工系系學會、醫管系系學會、工設系系學會、工商系系學會、資管系系學會、數金系系學會以及人工智慧系學會。"
+    },
+    {
+        "question": "校友會有哪些？",
+        "answer": "有桃園校友會、新竹校友會、台中校友會等。"
+    },
+    {
+        "question": "我需要確切知道有哪些校友會",
+        "answer": "宜蘭校友會、台北青年社、桃園校友會、新竹校友會、台中校友會、彰化校友會、嘉義雲林校友會、台南校友會、高雄屏東校友會、僑友會以及陸生聯合會。"
+    },
+    {
+        "question": "總共有幾個系學會？",
+        "answer": "總共有21個系學會。"
+    },
+    {
+        "question": "總共有幾個校友會？",
+        "answer": "總共有11個校友會。"
+    },
+    {
+        "question": "音樂類社團有哪些？",
+        "answer": "有管樂社、弦樂社、國樂社、鋼琴社等。"
+    },
+    {
+        "question": "總共有幾個音樂類社團？",
+        "answer": "總共有9個音樂類社團。"
+    },
+    {
+        "question": "我需要知道詳細的音樂類社團",
+        "answer": "鋼琴社、國樂社、管樂社、弦樂社、吉他社、熱音社、曉韻合唱團、嘻哈文化研究社、電子音樂社。"
+    },
+    {
+        "question": "學藝類社團有哪些？",
+        "answer": "有漫畫研習社、資訊社、國醫社、咖啡社、圍棋社等。"
+    },
+    {
+        "question": "體育類社團有哪些？",
+        "answer": "體育類社團包括路跑社、散打搏擊社、光火藝術社、籃球隊、女籃社、棒球社和健身社等。"
+    },
+    {
+        "question": "宗教服務類社團有哪些？",
+        "answer": "宗教服務類社團包括蒲公英工作隊、校園守護犬志工隊、慈青社、崇德青年社等。"
+    },
+    {
+        "question": "長庚大學有哪些類型的社團？",
+        "answer": "有系學會，校友會，音樂類，學藝類，體育類，宗教服務類，學生會這七個種類。"
+    },
+    {
+        "question": "總共有幾個學藝類社團？",
+        "answer": "總共有 19 個學藝類社團。"
+    },
+    {
+        "question": "總共有幾個體育類社團？",
+        "answer": "總共有 24 個體育類社團。"
+    },
+    {
+        "question": "總共有幾個宗教服務類社團？",
+        "answer": "總共有 12 個宗教服務類社團。"
+    },
+    {
+        "question": "我需要知道詳細的學藝類社團",
+        "answer": "學藝類社團包括漫畫研習社、資訊社、中國醫學研究社、紫藤花親善社、咖啡社、橋藝社、圍棋社、攝影社、桌上遊戲社、飲料調製研究社、書法社、甜點烘焙研究社、音樂遊戲社、光亞復古社、技術開源社、韓國文化研究社、香水調製社、茶道社和天文社。"
+    },
+    {
+        "question": "我需要知道詳細的體育類社團",
+        "answer": "體育類社團包括熱舞社、有氧舞蹈社、當代舞蹈社、國術社、空手道社、合氣道社、劍道社、壘球隊、排球社、羽球社、足球社、網球社、登山社、桌球社、跆拳道社、太極拳研習社、瑜珈社、路跑社、散打搏擊社、光火藝術社、籃球隊、女籃社、棒球社和健身社。"
+    },
+    {
+        "question": "我需要知道詳細的宗教服務類社團",
+        "answer": "宗教服務類社團包括蒲公英工作隊、校園守護犬志工隊、慈青社、崇德青年社、校園巡邏隊、春暉社、光鹽團契、聖經研究社、中智社、禪學社、羅卡達工作隊和特勤隊。"
+    },
+    {
+        "question": "漫畫研習社在哪裡？",
+        "answer": "地點在蘊德樓社辦三"
+    },
+    {
+        "question": "資訊社在哪裡？",
+        "answer": "地點在屈臣氏直走左邊第 2 間"
+    },
+    {
+        "question": "中國醫學研究社在哪裡？",
+        "answer": "地點在庚心廣場右邊第 3 間"
+    },
+    {
+        "question": "紫藤花親善社在哪裡？",
+        "answer": "地點在活動中心 2 樓 社辦一 (動態展覽室旁邊)"
+    },
+    {
+        "question": "咖啡社在哪裡？",
+        "answer": "地點在活動中心 社團練習室一旁邊"
+    },
+    {
+        "question": "橋藝社在哪裡？",
+        "answer": "地點在地下室 711 正對面"
+    },
+    {
+        "question": "圍棋社在哪裡？",
+        "answer": "地點在活動中心 2 樓 社辦九"
+    },
+    {
+        "question": "攝影社在哪裡？",
+        "answer": "地點在屈臣氏直走走到底"
+    },
+    {
+        "question": "桌上遊戲社在哪裡？",
+        "answer": "地點在活動中心 直走到底右邊第 2 間"
+    },
+    {
+        "question": "飲料調製研究社在哪裡？",
+        "answer": "地點在屈臣氏直走右邊第 1 間"
+    },
+    {
+        "question": "書法社在哪裡？",
+        "answer": "地點在活動中心 2 樓 社辦九"
+    },
+    {
+        "question": "甜點烘焙研究社在哪裡？",
+        "answer": "地點在活動中心 2 樓 社辦四"
+    },
+    {
+        "question": "音樂遊戲社在哪裡？",
+        "answer": "地點在蘊德樓社辦四"
+    },
+    {
+        "question": "光亞復古社在哪裡？",
+        "answer": "地點在庚昀教室一"
+    },
+    {
+        "question": "技術開源社在哪裡？",
+        "answer": "地點在蘊德樓社辦十"
+    },
+    {
+        "question": "韓國文化研究社在哪裡？",
+        "answer": "地點在活動中心 2 樓 社辦九"
+    },
+    {
+        "question": "香水調製社在哪裡？",
+        "answer": "地點在蘊德樓社辦一"
+    },
+    {
+        "question": "茶道社在哪裡？",
+        "answer": "地點在庚心廣場直走右手邊"
+    },
+    {
+        "question": "天文社在哪裡？",
+        "answer": "地點在剛成立目前還沒有社辦"
+    },
+    {
+        "question": "熱舞社在哪裡？",
+        "answer": "地點在地下室 711 正對面"
+    },
+    {
+        "question": "有氧舞蹈社在哪裡？",
+        "answer": "地點在屈臣氏走到底"
+    },
+    {
+        "question": "當代舞蹈社在哪裡？",
+        "answer": "地點在庚心廣場直走的左手邊"
+    },
+    {
+        "question": "國術社在哪裡？",
+        "answer": "地點在活動中心 社團練習室一旁邊"
+    },
+    {
+        "question": "空手道社在哪裡？",
+        "answer": "地點在庚心廣場直走走到底左手邊第 1 間"
+    },
+    {
+        "question": "合氣道社在哪裡？",
+        "answer": "地點在屈臣氏直走右手邊第 5 間"
+    },
+    {
+        "question": "劍道社在哪裡？",
+        "answer": "地點在地下室 711 正對面直走左手邊第 3 間"
+    },
+    {
+        "question": "壘球隊在哪裡？",
+        "answer": "地點在蘊德樓社辦九"
+    },
+    {
+        "question": "排球社在哪裡？",
+        "answer": "地點在地下室 711 正對面"
+    },
+    {
+        "question": "羽球社在哪裡？",
+        "answer": "地點在地下室 711 正對面直走右手邊"
+    },
+    {
+        "question": "足球社在哪裡？",
+        "answer": "地點在庚心廣場左轉走到底再右轉走到底"
+    },
+    {
+        "question": "網球社在哪裡？",
+        "answer": "地點在蘊德樓社辦七"
+    },
+    {
+        "question": "登山社在哪裡？",
+        "answer": "地點在活動中心 2 樓 社辦二 (紫藤花社旁邊)"
+    },
+    {
+        "question": "桌球社在哪裡？",
+        "answer": "地點在活動中心 社團練習室二旁邊"
+    },
+    {
+        "question": "跆拳道社在哪裡？",
+        "answer": "地點在庚心廣場直走右手邊第 1 間"
+    },
+    {
+        "question": "太極拳研習社在哪裡？",
+        "answer": "地點在活動中心 2 樓 社辦三"
+    },
+    {
+        "question": "瑜珈社在哪裡？",
+        "answer": "地點在活動中心 2 樓 社辦九"
+    },
+    {
+        "question": "路跑社在哪裡？",
+        "answer": "地點在地下室 711 正對面直走左手邊"
+    },
+    {
+        "question": "散打搏擊社在哪裡？",
+        "answer": "地點在地下室 711 正對面"
+    },
+    {
+        "question": "光火藝術社在哪裡？",
+        "answer": "地點在庚心廣場直走的左手邊第 2 間 (當代舞蹈社旁邊)"
+    },
+    {
+        "question": "籃球隊在哪裡？",
+        "answer": "地點在實作-活動中心 3 樓"
+    },
+    {
+        "question": "女籃社在哪裡？",
+        "answer": "地點在蘊德樓社辦八"
+    },
+    {
+        "question": "棒球社在哪裡？",
+        "answer": "地點在屈臣氏直走右手邊第 2 間"
+    },
+    {
+        "question": "健身社在哪裡？",
+        "answer": "地點在實作-明德樓健身房"
+    },
+    {
+        "question": "蒲公英工作隊在哪裡？",
+        "answer": "地點在庚心廣場右邊第 3 間"
+    },
+    {
+        "question": "校園守護犬志工隊在哪裡？",
+        "answer": "地點在屈臣氏直走走到底右手邊第 1 間"
+    },
+    {
+        "question": "慈青社在哪裡？",
+        "answer": "地點在活動中心 2 樓 社辦六"
+    },
+    {
+        "question": "崇德青年社在哪裡？",
+        "answer": "地點在庚心廣場直走右手邊第 3 間 (弦樂社旁)"
+    },
+    {
+        "question": "校園巡邏隊在哪裡？",
+        "answer": "地點在活動中心 2 樓 曉韻合唱團隔壁"
+    },
+    {
+        "question": "春暉社在哪裡？",
+        "answer": "地點在地下室 711 正對面直走左手邊"
+    },
+    {
+        "question": "光鹽團契在哪裡？",
+        "answer": "地點在屈臣氏直走右手邊第 4 間"
+    },
+    {
+        "question": "聖經研究社在哪裡？",
+        "answer": "地點在屈臣氏直走右手邊第 5 間"
+    },
+    {
+        "question": "中智社在哪裡？",
+        "answer": "地點在蘊德樓社辦五"
+    },
+    {
+        "question": "禪學社在哪裡？",
+        "answer": "地點在蘊德樓社辦二"
+    },
+    {
+        "question": "羅卡達工作隊在哪裡？",
+        "answer": "地點在屈臣氏直走右手邊"
+    },
+    {
+        "question": "特勤隊在哪裡？",
+        "answer": "地點在活動中心直走到底右邊第1間"
+    },
+    {
+        "question": "醫學系系學會的相關網站？",
+        "answer": "FB網址: http://www.facebook.com/%E9%95%B7%E5%BA%9A%E9%86%AB%E5%AD%B8%20%E7%B3%BB%E7%B3%BB%E5%AD%B8%E6%9C%83-363369733699276"
+    },
+    {
+        "question": "生技系系學會的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/cgumtstudent"
+    },
+    {
+        "question": "醫放系系學會的相關網站？",
+        "answer": "FB網址: http://www.facebook.com/%E9%95%B7%E5%BA%9A%E5%A4%A7%E5%AD%B8%20%E9%86%AB%E6%94%BE%E7%B3%BB%E7%B3%BB%E5%AD%B8%E6%9C%83-%20501380759937388"
+    },
+    {
+        "question": "護理系系學會的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/ZhangGengDaXueHuLiXiXiXueHu"
+    },
+    {
+        "question": "中醫系系學會的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/cgu.cmed.sa.tw"
+    },
+    {
+        "question": "職治系系學會的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/%E9%95%B7%E5%BA%9A%E5%A4%A7%E5%AD%B8%E8%81%B7%E8%83%BD%E6%B2%BB%E7%99%82%E7%B3%BB%E7%B3%BB%E5%AD%B8%E6%9C%83-1512611532393530/?locale=it_IT&paipv=0&eav=Afbjp65NBP9Iihm3CIecrPLDxIBlAjyEKfMo0fR_S2-FVyhAcloOr6K3ChKXFoh_188&_rdr"
+    },
+    {
+        "question": "物治系系學會的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/cguptpt"
+    },
+    {
+        "question": "呼治系系學會的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/CGURT102"
+    },
+    {
+        "question": "生醫系系學會的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/CGUBioMed"
+    },
+    {
+        "question": "電機系系學會的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/CGUEEA/"
+    },
+    {
+        "question": "機械系系學會的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/ChangGungME/"
+    },
+    {
+        "question": "化材系系學會的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/profile.php?id=100049129346134&paipv=0&eav=AfYHxGJ7Tiz1qdKi8-Bu0b9xG0voJO21HEW4CWBr8P9HTeGC-nR2-es6STWKxPpiX6E&_rdr"
+    },
+    {
+        "question": "電子系系學會的相關網站？",
+        "answer": "FB網址: http://www.facebook.com/ZhangGengDaXueDianZiXiXiXueHui/"
+    },
+    {
+        "question": "資工系系學會的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/CGUCSIE/"
+    },
+    {
+        "question": "醫管系系學會的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/people/%E9%95%B7%E5%BA%9A%E5%A4%A7%E5%AD%B8%E9%86%AB%E5%8B%99%E7%AE%A1%E7%90%86%E5%AD%B8%E7%B3%BB%E7%B3%BB%E5%AD%B8%E6%9C%83/100054255410274/"
+    },
+    {
+        "question": "工設系系學會的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/cguid/"
+    },
+    {
+        "question": "工商系系學會的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/ChangGungBA/"
+    },
+    {
+        "question": "資管系系學會的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/ChangGungUniverisity.IM/"
+    },
+    {
+        "question": "宜蘭校友會的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/CGU.kavalan/"
+    },
+    {
+        "question": "桃園校友會的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/CGUTFC/"
+    },
+    {
+        "question": "新竹苗栗校友會的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/CGUHsinChu/"
+    },
+    {
+        "question": "臺中校友會的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/groups/285982898148935/"
+    },
+    {
+        "question": "彰化校友會的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/CGUCH/"
+    },
+    {
+        "question": "嘉義雲林校友會的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/cyparadiseloveyou/"
+    },
+    {
+        "question": "臺南校友會的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/tn.cgu/"
+    },
+    {
+        "question": "高雄屏東校友會的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/CGUKSPT/"
+    },
+    {
+        "question": "僑友會的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/groups/237946372917909/"
+    },
+    {
+        "question": "陸生聯合會的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/cgucnstudent"
+    },
+    {
+        "question": "台北青年社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/cgu.cd.young/"
+    },
+    {
+        "question": "管樂社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/cguwindband/"
+    },
+    {
+        "question": "弦樂社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/cguso/"
+    },
+    {
+        "question": "國樂社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/cgucmlanyi/"
+    },
+    {
+        "question": "吉他社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/cgugc/"
+    },
+    {
+        "question": "曉韻合唱團的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/CGUBestMelody/"
+    },
+    {
+        "question": "熱音社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/cgupopmusicclub/"
+    },
+    {
+        "question": "鋼琴社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/CGUPiano/"
+    },
+    {
+        "question": "嘻哈文化研究社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/CGUHIPHOP/"
+    },
+    {
+        "question": "電子音樂社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/cguemc/"
+    },
+    {
+        "question": "熱舞社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/CGUHD/"
+    },
+    {
+        "question": "有氧舞蹈社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/people/%E9%95%B7%E5%BA%9A%E5%A4%A7%E5%AD%B8%E6%9C%89%E6%B0%A7%E8%88%9E%E8%B9%88%E7%A4%BE/100054211163692/"
+    },
+    {
+        "question": "國術社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/cgumartialarts/"
+    },
+    {
+        "question": "空手道社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/%E9%95%B7%E5%BA%9A%E5%A4%A7%E5%AD%B8%E7%A9%BA%E6%89%8B%E9%81%93%E7%A4%BE-568893329813122/"
+    },
+    {
+        "question": "合氣道社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/cguaikido/"
+    },
+    {
+        "question": "劍道社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/profile.php?id=100054675120079"
+    },
+    {
+        "question": "壘球隊的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/softball.team.cgu/"
+    },
+    {
+        "question": "排球社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/softball.team.cgu/reviews/?ref=page_internal"
+    },
+    {
+        "question": "羽球社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/profile.php?id=100039379315703"
+    },
+    {
+        "question": "足球社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/groups/1832551333640134/"
+    },
+    {
+        "question": "網球社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/profile.php?id=100054511658434&paipv=0&eav=AfZlgSlJyWEZVeCC5g6ZnyrYoQwkOoD_jmfTuVKGVIEvH5cJWikpXJADxxtN9I6fr6g&_rdr"
+    },
+    {
+        "question": "登山社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/ChangGungmountaineering/"
+    },
+    {
+        "question": "桌球社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/CGUTTT/"
+    },
+    {
+        "question": "跆拳道社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/people/%E9%95%B7%E5%BA%9A%E5%A4%A7%E5%AD%B8%E8%B7%86%E6%8B%B3%E9%81%93%E7%A4%BE/100057159173546/"
+    },
+    {
+        "question": "太極拳研習社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/cgutaijiquan/"
+    },
+    {
+        "question": "瑜珈社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/cguyogaclub/"
+    },
+    {
+        "question": "路跑社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/cgurunner.tw/"
+    },
+    {
+        "question": "散打搏擊社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/cgu.sanda/"
+    },
+    {
+        "question": "當代舞蹈社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/CGUCDC/"
+    },
+    {
+        "question": "光火藝術社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/cgulfc/"
+    },
+    {
+        "question": "女籃社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/cgulfc/"
+    },
+    {
+        "question": "棒球社的相關網站？",
+        "answer": "FB網址: http://www.facebook.com/CGUBaseballTeam"
+    },
+    {
+        "question": "健身社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/%E9%95%B7%E5%BA%9A%E5%81%A5%E8%BA%AB%E7%A4%BE-CGU-Fitness-103025431746119/"
+    },
+    {
+        "question": "漫畫研習社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/CGU.ACCG/"
+    },
+    {
+        "question": "資訊社的相關網站？",
+        "answer": "FB網址: https://zh-tw.facebook.com/cguiccclub"
+    },
+    {
+        "question": "中國醫學研究社的相關網站？",
+        "answer": "FB網址: https://zh-tw.facebook.com/cguchmed"
+    },
+    {
+        "question": "紫藤花親善社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/profile.php?id=100064901340965"
+    },
+    {
+        "question": "咖啡社的相關網站？",
+        "answer": "FB網址: https://zh-tw.facebook.com/cgucoffeeclub"
+    },
+    {
+        "question": "橋藝社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/profile.php?id=100082615749677"
+    },
+    {
+        "question": "圍棋社的相關網站？",
+        "answer": "FB網址: https://zh-tw.facebook.com/changgunggo/"
+    },
+    {
+        "question": "攝影社的相關網站？",
+        "answer": "FB網址: https://zh-tw.facebook.com/cgu.photoclub/"
+    },
+    {
+        "question": "桌上遊戲社的相關網站？",
+        "answer": "FB網址: https://zh-tw.facebook.com/cgutgc"
+    },
+    {
+        "question": "飲料調製研究社的相關網站？",
+        "answer": "FB網址: https://zh-tw.facebook.com/CGUBC"
+    },
+    {
+        "question": "書法社的相關網站？",
+        "answer": "FB網址: https://zh-tw.facebook.com/cgulanrancalligraphy/"
+    },
+    {
+        "question": "甜點烘焙研究社的相關網站？",
+        "answer": "FB網址: https://zh-tw.facebook.com/cgubakingclub/"
+    },
+    {
+        "question": "音樂遊戲社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/people/%E9%95%B7%E5%BA%9A%E5%A4%A7%E5%AD%B8%E9%9F%B3%E6%A8%82%E9%81%8A%E6%88%B2%E7%A4%BE/100066968523389/"
+    },
+    {
+        "question": "光亞復古社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/people/%E9%95%B7%E5%BA%9A%E5%A4%A7%E5%AD%B8%E5%85%89%E4%BA%9E%E5%BE%A9%E5%8F%A4%E7%A4%BE/100066251610154/"
+    },
+    {
+        "question": "技術開源社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/cgu.dsc/"
+    },
+    {
+        "question": "韓國文化研究社的相關網站？",
+        "answer": "Instagram網址: https://www.instagram.com/cgu_kr/"
+    },
+    {
+        "question": "香水調製社的相關網站？",
+        "answer": "Instagram網址: https://www.instagram.com/fragrance_cgu/"
+    },
+    {
+        "question": "茶道社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/cguteaismclub"
+    },
+    {
+        "question": "天文社的相關網站？",
+        "answer": "Instagram網址: https://www.instagram.com/cgu.astronomy/?igshid=YmMyMTA2M2Y%3D"
+    },
+    {
+        "question": "蒲公英工作隊的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/CGUDandelions/"
+    },
+    {
+        "question": "校園守護犬志工隊的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/cgudrdogs/"
+    },
+    {
+        "question": "慈青社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/cgtzuching104"
+    },
+    {
+        "question": "崇德青年社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/cgu.cd.young/"
+    },
+    {
+        "question": "校園巡邏隊的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/%E9%95%B7%E5%BA%9A%E5%A4%A7%E5%AD%B8%E5%AD%B8%E7%94%9F%E6%A0%A1%E5%9C%92%E5%B7%A1%E9%82%8F%E9%9A%%208A-493104064033734/"
+    },
+    {
+        "question": "春暉社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/CGUSUN123/"
+    },
+    {
+        "question": "光鹽團契的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/cugfellowship/"
+    },
+    {
+        "question": "聖經研究社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/cgubiblestudy/"
+    },
+    {
+        "question": "中智社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/cgu.mwbc/"
+    },
+    {
+        "question": "領袖社的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/%E9%95%B7%E5%BA%9A%E9%A0%98%E8%A2"
+    },
+    {
+        "question": "羅卡達工作隊的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/lokahda/"
+    },
+    {
+        "question": "特勤隊的相關網站？",
+        "answer": "FB網址: https://www.facebook.com/CGUswh/"
+    }
+]
