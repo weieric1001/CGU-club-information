@@ -1,5 +1,3 @@
-[TOC]
-
 ## Quickstart
 
 1. Install requirements with pip
@@ -29,3 +27,10 @@
 | prompting.py     | compose the prompt       |
 | gemma2_2b.py     | text generate            |
 
+## Development Environment
+
+- python version: 3.12.7
+- OS: Windows
+- CPU: AMD Ryzen 9 5900HS with Radeon Graphics 
+- GPU: NVIDIA GeForce RTX 3070 Laptop GPU
+- RAM: 16.0 GB
