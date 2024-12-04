@@ -1,5 +1,5 @@
 def create_prompt(question: str, examples: list[dict] = None) -> str:
-    prompt = "你是一個友善的聊天機器人。\n可以回答長庚大學裡各種社團問題。\n"
+    prompt = "你是一個友善的聊天機器人。n\你只能從我提供的資料回答有關長庚大學裡各種社團的問題。\n"
     if examples:
         for e in examples:
             prompt += f"Question: {e['question']}\n{e['answer']}\n\n"
