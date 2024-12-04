@@ -8,6 +8,12 @@
    pip install -r requirements.txt
    ```
 
+2. Download the models for the first time
+
+   ```
+   python setup.py
+   ```
+
 2. Run streamlit
 
    ```
