@@ -29,7 +29,8 @@
 
 ## Development Environment
 
-- python version: 3.12.7
+- Python: 3.12.7
+- Dependencies: Listed in `requirements.txt`
 - OS: Windows
 - CPU: AMD Ryzen 9 5900HS with Radeon Graphics 
 - GPU: NVIDIA GeForce RTX 3070 Laptop GPU
