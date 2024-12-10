@@ -1,9 +1,10 @@
-import pandas as pd
 import streamlit as st
 
 from vector_search import vector_search
 from prompting import create_prompt
-from gemma2_2b import chat
+from llm import chat, create_pipeline
+
+from config import MODEL_LIST, get_args
 
 if "messages" not in st.session_state:
     st.session_state["messages"] = [
@@ -17,10 +18,11 @@ if "messages" not in st.session_state:
 with st.sidebar:
     LLM_MODEL = st.selectbox(
         "LLM Model",
-        options=[
-            "google/gemma-2-2b-it",
-        ],
+        options=list(get_args(MODEL_LIST)),
     )
+
+if "model_name" not in st.session_state:
+    st.session_state["model_name"] = LLM_MODEL
 
 for msg in st.session_state.messages:
     with st.chat_message(msg["role"]):
@@ -29,10 +31,13 @@ for msg in st.session_state.messages:
 
 if prompt := st.chat_input(key="user_input"):
     with st.chat_message("user"):
-        st.session_state.messages.append(
-            {"type": "message", "role": "user", "content": prompt}
-        )
-        st.write(prompt)
+        prompt_msg = {
+            "type": "message",
+            "role": "user",
+            "content": f"{prompt}",
+        }
+        st.session_state.messages.append(prompt_msg)
+        st.write(prompt_msg["content"])
 
     with st.chat_message("ai"):
         with st.status(
@@ -42,11 +47,22 @@ if prompt := st.chat_input(key="user_input"):
             example = vector_search(prompt)
             st.write(example)
             st.write(f"2. Prompting...")
-            prompt = create_prompt(prompt, example)
-            st.write(f"3. Waiting for response from {LLM_MODEL}...")
-            response = chat(prompt)
-            st.write(f"4. Done!")
+            prompt = create_prompt(prompt, LLM_MODEL, example)
+            st.write(f"3. Creating pipeline for {LLM_MODEL}...")
+            if (
+                "model_pipe" not in st.session_state
+                or st.session_state["model_name"] != LLM_MODEL
+            ):
+                st.session_state["model_name"] = LLM_MODEL
+                st.session_state["model_pipe"] = create_pipeline(LLM_MODEL)
+            st.write(f"4. Waiting for response from {LLM_MODEL}...")
+            response = chat(prompt, st.session_state["model_pipe"])
+            st.write(f"5. Done!")
             status.update(label="Done!", state="complete", expanded=False)
-        result = {"type": "message", "role": "ai", "content": f"{response}"}
+        result = {
+            "type": "message",
+            "role": "ai",
+            "content": f"「{LLM_MODEL}」  \n{response}",
+        }
         st.write(result["content"])
         st.session_state.messages.append(result)
