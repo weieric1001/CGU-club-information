@@ -1,22 +1,22 @@
-from transformers import pipeline
+from transformers import AutoTokenizer, AutoModel
+
+from config import MODEL_LIST, get_args
 
 
 def init():
-    # check model "google/gemma-2-2b-it"
-    pipe = pipeline(
-        "text-generation",
-        model="google/gemma-2-2b-it",
-        device=0,
-    )
-    print("Model 'google/gemma-2-2b-it' is ready to use.")
-
-    # check model "intfloat/multilingual-e5-small"
-    pipe = pipeline(
-        "text-generation",
-        model="intfloat/multilingual-e5-small",
-        device=0,
-    )
-    print("Model 'intfloat/multilingual-e5-small' is ready to use.")
+    for m in list(get_args(MODEL_LIST)):
+        try:
+            AutoModel.from_pretrained(m, local_files_only=True)
+            AutoTokenizer.from_pretrained(m, local_files_only=True)
+            print(f"Model '{m}' is ready to use.")
+        except Exception as e:
+            try:
+                AutoModel.from_pretrained(m, local_files_only=False)
+                AutoTokenizer.from_pretrained(m, local_files_only=False)
+                print(f"Model '{m}' is ready to use.")
+            except Exception as e:
+                print(f"Model '{m}' is not available.")
+                print(e)
 
 
 if __name__ == "__main__":
